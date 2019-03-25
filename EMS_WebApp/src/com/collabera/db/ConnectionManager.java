@@ -20,7 +20,7 @@ public class ConnectionManager {
 		if (con == null) {
 			try {
 				Class.forName("com.mysql.cj.jdbc.Driver");
-				con = DriverManager.getConnection("jdbc:mysql://localhost/EMS_DB?serverTimezone=EST5EDT", "root", "iamroott");
+				con = DriverManager.getConnection("jdbc:mysql://localhost/EMS_DB?serverTimezone=EST5EDT", "root", "");
 			} catch (ClassNotFoundException e) {
 				System.out.println(e.getMessage());
 			} catch (SQLException e) {
