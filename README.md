@@ -5,7 +5,7 @@ Employee Management System as a Java Web Application using Spring Tool Suite 4 a
 
 Complex level of a Java Web Application integrated with well-known library 'mysql-connector-java-8.0.15' to connect to MySQL Database.
 
-For all beginners/semi-pro, this is perfect repository to start-off with a java web application describing Employee Management System in simple manner. I have used MySQL Workbench for managing database. I have added some security features and validations for better conduct of this application. I have used Spring Tool Suite 4 as an IDE.
+For all beginners/semi-pro, this is perfect repository to start-off with a java web application describing Employee Management System in simple manner. I have used MySQL Workbench for managing database. I have added some security features, validations, auto-complete feature for better conduct of this application. I have used Spring Tool Suite 4 as an IDE.
 
 For testing the application, you have to Login as an Admin. Once login credentials are validated, one can start managing the Employees and Managers. I have also added basic functionalities for managing the Employee viz. Create, Search, Update and Delete Employee. Employee can also login to view his/her details.
 
