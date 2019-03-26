@@ -10,6 +10,7 @@ For all beginners/semi-pro, this is perfect repository to start-off with a java 
 For testing the application, you have to Login as an Admin. Once login credentials are validated, one can start managing the Employees and Managers. I have also added basic functionalities for managing the Employee viz. Create, Search, Update and Delete Employee. Employee can also login to view his/her details.
 
 LogIn as Admin: - '0' as UserName and 'admi' as Password.
+
 LogIn as Employee/Manager: - Employee Id as UserName and Last 4 digit of SSN as Password.
 
 NOTE: - MySQL Database is initialized with unreal Employees and Managers Details.
